@@ -21,7 +21,7 @@ const SearchBar = ({ term, onTermChange }) => {
 const styles = StyleSheet.create({
   backgroundStyle: {
     marginTop: 10,
-    backgroundColor: '#F0EEEE',
+    backgroundColor: '#cfcfcf',
     height: 50,
     borderRadius: 5,
     marginHorizontal: 15,
